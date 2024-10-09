@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+/lambda/*/node_modules/
+/lambda/*/httpToSocketMessage/*.zip
+/lambda/*/httpToSocketMuti/*.zip
+/lambda/*/onConnect/*.zip
+/lambda/*/onDisconnect/*.zip
+/lambda/*/onMessage/*.zip
+/lambda/*/updateChannel/*.zip

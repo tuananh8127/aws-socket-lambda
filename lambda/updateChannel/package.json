@@ -1,0 +1,14 @@
+{
+  "name": "updateChannel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "author": "",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.46",
+    "@types/node": "^13.9.2",
+    "aws-sdk": "^2.1691.0"
+  }
+}
